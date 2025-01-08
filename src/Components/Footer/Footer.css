@@ -64,6 +64,7 @@
 
 @media (max-width: 800px){
     .footer{
+        margin-top: 70px;
         gap: 20px;
 
     }
